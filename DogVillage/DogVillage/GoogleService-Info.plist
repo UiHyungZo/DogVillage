@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>960824207964-40lrfj2bf2tt59ola72ip83k5ruevfen.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.960824207964-40lrfj2bf2tt59ola72ip83k5ruevfen</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtXXxLPkejmtyw4y_Q4nZ72rARQBedsaE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>960824207964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DogVillage.www</string>
+	<key>PROJECT_ID</key>
+	<string>dogvillage-60d34</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dogvillage-60d34.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:960824207964:ios:4cc1f8f48fd343a0e51499</string>
+</dict>
+</plist>

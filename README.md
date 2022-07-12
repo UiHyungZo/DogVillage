@@ -20,4 +20,9 @@ Swift, ViewModel, FireBase, DataBinding, CocoaPods
 + MVVM, MVP, MVC
 
 # Part
-+ 개인 
++ 개인 프로젝트 (기획, 개발, 디자인 등)
+
+# Learned
++ FireStore의 계층의 컬렉션과 문서의 깊이를 이해햐여서 사용법을 알게 되었습니다.
++ MVVM패턴과 MVP 패턴을 처음으로 도입하여, 패턴에 대한 이해를 높일 수 있었습니다.
++ 프로토콜을 단순히 데이터 보내는 용도로 사용하는 것이 아닌 델리게이트 패턴을 이용하여 확장하는 방법을 알게되었습니다.

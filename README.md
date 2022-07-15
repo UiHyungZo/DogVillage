@@ -28,3 +28,6 @@ Swift, ViewModel, FireBase, DataBinding, CocoaPods
 + 프로토콜을 단순히 데이터 보내는 용도로 사용하는 것이 아닌 델리게이트 패턴을 이용하여 확장하는 방법을 알게되었습니다.
 + Firebase의 FireStore에서 이미지를 storage에 있는 url로 저장하게 되는데, url을 호출해 보여줄 수 있게 하는 방법을 알게되었습니다.
 + Firebase에서 Auth를 사용하여, 이메일에 링크를 보내 비밀번호 초기화를 사용할 수 있게 되었습니다
+
+# AppStore
++ https://apps.apple.com/kr/app/dogVillage/id1633985653

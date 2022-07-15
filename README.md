@@ -33,4 +33,4 @@ Swift, ViewModel, FireBase, DataBinding, CocoaPods
 + https://apps.apple.com/kr/app/dogVillage/id1633985653
 
 # Video
-<img src="https://github.com/UiHyungZo/DogVillage/issues/3#issue-1305691100">
+<img src="https://user-images.githubusercontent.com/104978283/179175458-209d4aa5-e931-4569-99e1-c53f00227d3e.mp4">
